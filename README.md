@@ -14,5 +14,9 @@
 * Windhawk:
  
          Mở Windhawk -> tạo mod mới -> copy mod.wh.cpp -> dán vào và biên dịch
-    
+
+
+## Conclusion - Tổng Kết:
+
+Vì nó full vibe code nên vẫn còn lỗi.
 
