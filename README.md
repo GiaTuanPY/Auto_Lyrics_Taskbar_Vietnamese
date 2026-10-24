@@ -11,8 +11,8 @@
 
       ... sau đó bật development mode -> load unpacked -> extension/ manifest.json, content.js, background,json
 
-  * Windhawk:
+* Windhawk:
  
-        Mở Windhawk -> tạo mod mới -> copy mod.wh.cpp -> dán vào và biên dịch
+         Mở Windhawk -> tạo mod mới -> copy mod.wh.cpp -> dán vào và biên dịch
     
 
