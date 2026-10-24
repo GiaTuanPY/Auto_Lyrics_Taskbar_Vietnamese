@@ -9,7 +9,7 @@
 
        Chrome://extensions/
 
-      ... sau đó bật development mode -> load unpacked -> extension
+      ... sau đó bật development mode -> load unpacked -> extension/ manifest.json, content.js, background,json
 
   * Windhawk:
     
